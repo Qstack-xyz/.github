@@ -1,7 +1,6 @@
-# .github
 # Qstack is an open source and public good project sponsored by Algorand Foundation in partnership with Blockchain Acceleration Foundation 
 ---
-## We present a unified and modular framework for implementing Quadratic mechanisms on any chain -- however we highlight the advantages of using the Algorand Blockchain and provide a case study for direct implementation of Algorand main net. 
+### We present a unified and modular framework for implementing Quadratic mechanisms on any chain - however we highlight the advantages of using the Algorand Blockchain and provide a case study for direct implementation of Algorand main net. 
 
 ---
 
